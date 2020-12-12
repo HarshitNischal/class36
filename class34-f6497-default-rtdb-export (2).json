@@ -1,0 +1,22 @@
+{
+  "gameState" : 1,
+  "playerCount" : 4,
+  "players" : {
+    "player1" : {
+      "distance" : 6100,
+      "name" : "Gohan"
+    },
+    "player2" : {
+      "distance" : 5800,
+      "name" : "Goku"
+    },
+    "player3" : {
+      "distance" : 5200,
+      "name" : "Vegeta"
+    },
+    "player4" : {
+      "distance" : 4500,
+      "name" : "gOTEN"
+    }
+  }
+}
